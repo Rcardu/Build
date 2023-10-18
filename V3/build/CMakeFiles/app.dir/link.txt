@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/Build/Code/demo/V3/lib1  -Wl,-rpath,/Build/Code/demo/V3/lib1 -lcalc 

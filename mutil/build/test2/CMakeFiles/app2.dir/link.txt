@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/test2.cpp.o -o ../../bin/app2   -L/Build/Code/demo/mutil/lib  -Wl,-rpath,/Build/Code/demo/mutil/lib ../../lib/libsort.a 

@@ -1,0 +1,3 @@
+/Build/Code/demo/V6/build/CMakeFiles/app.dir
+/Build/Code/demo/V6/build/CMakeFiles/edit_cache.dir
+/Build/Code/demo/V6/build/CMakeFiles/rebuild_cache.dir

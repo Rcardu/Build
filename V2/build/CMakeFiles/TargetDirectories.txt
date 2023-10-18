@@ -1,0 +1,3 @@
+/Build/Code/demo/V2/build/CMakeFiles/calc.dir
+/Build/Code/demo/V2/build/CMakeFiles/edit_cache.dir
+/Build/Code/demo/V2/build/CMakeFiles/rebuild_cache.dir

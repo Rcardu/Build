@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/sort.cpp.o -o ../../bin/app2   -L/Build/Code/demo/mutil_shared/lib  -Wl,-rpath,/Build/Code/demo/mutil_shared/lib ../../lib/libsort.so ../../lib/libcalc.so 

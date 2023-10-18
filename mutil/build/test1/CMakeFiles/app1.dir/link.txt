@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app1.dir/test1.cpp.o -o ../../bin/app1   -L/Build/Code/demo/mutil/lib  -Wl,-rpath,/Build/Code/demo/mutil/lib ../../lib/libcalc.a 
